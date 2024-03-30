@@ -4,11 +4,11 @@
 Our project delves into the determinants of dating compatibility among individuals in their 20s during the initial stages of acquaintance. Through rigorous analysis, we observed specific attributes that significantly differ between successfully matched pairs and those that were not, suggesting certain characteristics may influence matchmaking outcomes. However, our attempts to predict matches based on these attributes proved challenging, indicating the complex nature of human compatibility.
 
 ## Team Members
-Avantika Goyal
-Akhilan Gurumoorthy
-Derek Ma
-Weston Yang
-Yu Huang
+Avantika Goyal \n
+Akhilan Gurumoorthy \n
+Derek Ma \n
+Weston Yang \n
+Yu Huang \n
 
 ## Research Question
 We aimed to uncover the most critical factors determining compatibility between individuals in their 20s at the outset of their meeting.
