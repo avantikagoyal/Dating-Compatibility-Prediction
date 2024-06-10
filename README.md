@@ -1,7 +1,7 @@
 # Dating Compatibility Final Project
 
 ## Overview
-Our project delves into the determinants of dating compatibility among individuals in their 20s during the initial stages of acquaintance. Through rigorous analysis, we observed specific attributes that significantly differ between successfully matched pairs and those that were not, suggesting certain characteristics may influence matchmaking outcomes. However, our attempts to predict matches based on these attributes proved challenging, indicating the complex nature of human compatibility.
+Our project delves into the determinants of dating compatibility among individuals in their 20s during the initial stages of meeting. Through rigorous analysis, we observed specific attributes that significantly differ between successfully matched pairs and those that were not, suggesting certain characteristics may influence matchmaking outcomes. However, our attempts to predict matches based on these attributes proved challenging, indicating the complex nature of human compatibility.
 
 ## Team Members
 Avantika Goyal <br>
