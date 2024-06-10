@@ -56,5 +56,5 @@ Explore the Jupyter Notebook for detailed insights into our methodology and find
 We welcome further exploration and contributions to refine our models or expand upon our findings. Feel free to fork this repository and submit your enhancements for review.
 
 ## Acknowledgements
-We extend our gratitude to Columbia University and Kaggle contributor, Ulrik Thyge Pedersen, for collecting and providing the dataset that made this project possible. Special thanks also go to our professor and peers for their invaluable support and feedback throughout this endeavor.
+We extend our gratitude to Columbia University and Kaggle contributor, Ulrik Thyge Pedersen, for collecting and providing the dataset that made this project possible. Special thanks also goes to our professor and peers for their support and feedback throughout this endeavor. This is a team project completed as an assignment for UC San Diego's Course COGS 108.
 
